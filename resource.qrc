@@ -1,0 +1,122 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>qml/UI/main.qml</file>
+        <file>qml/UI/RightPanelShortcuts.qml</file>
+        <file>qml/UI/Common/Buttons/CustomButton.qml</file>
+        <file>qml/UI/Common/Buttons/CustomTabBarButton.qml</file>
+        <file>qml/UI/Common/Buttons/ViewButton.qml</file>
+        <file>qml/UI/Common/Image/ColoredImage.qml</file>
+        <file>qml/UI/Common/Image/SvgImage.qml</file>
+        <file>qml/UI/Common/SpinBox/CustomSpinBox.qml</file>
+        <file>qml/UI/Common/SpinBox/SpinBoxIndicator.qml</file>
+        <file>qml/UI/Common/CameraModeMenu.qml</file>
+        <file>qml/UI/Common/CustomCheckBox.qml</file>
+        <file>qml/UI/Common/CameraModeMenuItem.qml</file>
+        <file>qml/UI/Common/CustomSlider.qml</file>
+        <file>qml/UI/Common/CustomSwitch.qml</file>
+        <file>qml/UI/Common/CustomTabBar.qml</file>
+        <file>qml/UI/Common/CustomToolTip.qml</file>
+        <file>qml/UI/Common/CustomDialog.qml</file>
+        <file>qml/UI/Common/CustomLabel.qml</file>
+        <file>qml/UI/Common/ProgressCircle.qml</file>
+        <file>qml/UI/Components/ButtonsGroup.qml</file>
+        <file>qml/UI/Components/CheckBoxWithSlider.qml</file>
+        <file>qml/UI/Components/LeftPanel.qml</file>
+        <file>qml/UI/Components/PlaneCutTab.qml</file>
+        <file>qml/UI/Components/SplineCutTab.qml</file>
+        <file>qml/UI/Components/TitleBar.qml</file>
+        <file>qml/UI/Components/ViewButtonsGroup.qml</file>
+        <file>qml/UI/Components/RightPanel.qml</file>
+        <file>qml/UI/Pages/LoadPage.qml</file>
+        <file>qml/UI/Pages/MainPage.qml</file>
+        <file>qml/UI/qmldir</file>
+        <file>qml/UI/Components/SegmentationTab.qml</file>
+        <file>qml/UI/Components/LabelWithComboBox.qml</file>
+        <file>qml/UI/Components/CustomMenuItemDelegate.qml</file>
+        <file>qml/UI/Common/CustomComboBox.qml</file>
+        <file>qml/UI/Components/SegmentationSettings.qml</file>
+        <file>qml/UI/Components/TabContainer.qml</file>
+        <file>qml/UI/Components/StepNavigationButton.qml</file>
+        <file>qml/UI/Components/TeethSegmentation.qml</file>
+        <file>qml/UI/Components/TeethButton.qml</file>
+        <file>qml/UI/Components/TeethComponent.qml</file>
+        <file>qml/UI/Components/TeethNumberButton.qml</file>
+        <file>qml/UI/Components/TeethMenu.qml</file>
+        <file>qml/UI/Components/TeethWithNumber.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file alias="appLogo.png">Images/appLogo.png</file>
+        <file alias="logo_patient">Images/logo_patient.svg</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file alias="Poppins-Regular.ttf">Fonts/Poppins-Regular.ttf</file>
+    </qresource>
+    <qresource prefix="/Icons">
+        <file alias="icon_backView">Icons/icon_backView.svg</file>
+        <file alias="icon_backViewActive">Icons/icon_backViewActive.svg</file>
+        <file alias="icon_bottomView">Icons/icon_bottomView.svg</file>
+        <file alias="icon_bottomViewActive">Icons/icon_bottomViewActive.svg</file>
+        <file alias="icon_frontView">Icons/icon_frontView.svg</file>
+        <file alias="icon_frontViewActive">Icons/icon_frontViewActive.svg</file>
+        <file alias="icon_leftView">Icons/icon_leftView.svg</file>
+        <file alias="icon_leftViewActive">Icons/icon_leftViewActive.svg</file>
+        <file alias="icon_play_white">Icons/icon_play_white.svg</file>
+        <file alias="icon_rightView">Icons/icon_rightView.svg</file>
+        <file alias="icon_rightViewActive">Icons/icon_rightViewActive.svg</file>
+        <file alias="icon_rotate">Icons/icon_rotate.svg</file>
+        <file alias="icon_spinBoxChecked">Icons/icon_spinBoxChecked.svg</file>
+        <file alias="icon_spinBoxUnChecked">Icons/icon_spinBoxUnChecked.svg</file>
+        <file alias="icon_splineCurve">Icons/icon_splineCurve.svg</file>
+        <file alias="icon_splineCurveActive">Icons/icon_splineCurveActive.svg</file>
+        <file alias="icon_splineSharp">Icons/icon_splineSharp.svg</file>
+        <file alias="icon_splineSharpActive">Icons/icon_splineSharpActive.svg</file>
+        <file alias="icon_topView">Icons/icon_topView.svg</file>
+        <file alias="icon_topViewActive">Icons/icon_topViewActive.svg</file>
+        <file alias="CameraModelIcons/icon_panView">Icons/CameraModelIcons/icon_panView.svg</file>
+        <file alias="CameraModelIcons/icon_XLocked">Icons/CameraModelIcons/icon_XLocked.svg</file>
+        <file alias="CameraModelIcons/icon_YLocked">Icons/CameraModelIcons/icon_YLocked.svg</file>
+        <file alias="CameraModelIcons/icon_ZLocked">Icons/CameraModelIcons/icon_ZLocked.svg</file>
+        <file alias="CameraModelIcons/icon_zoom">Icons/CameraModelIcons/icon_zoom.svg</file>
+        <file alias="icon_spinbox_down">Icons/icon_spinbox_down.svg</file>
+        <file alias="icon_spinbox_up">Icons/icon_spinbox_up.svg</file>
+        <file alias="icon_comboBox_down">Icons/icon_comboBox_down.svg</file>
+        <file alias="icon_comboBox_up">Icons/icon_comboBox_up.svg</file>
+        <file alias="icon_arrow_right">Icons/icon_arrow_right.svg</file>
+        <file alias="icon_settings">Icons/icon_settings.svg</file>
+        <file alias="icon_reload">Icons/icon_reload.svg</file>
+        <file alias="Teeths/Tooth11">Icons/Teeths/Tooth11.svg</file>
+        <file alias="Teeths/Tooth12">Icons/Teeths/Tooth12.svg</file>
+        <file alias="Teeths/Tooth13">Icons/Teeths/Tooth13.svg</file>
+        <file alias="Teeths/Tooth14">Icons/Teeths/Tooth14.svg</file>
+        <file alias="Teeths/Tooth15">Icons/Teeths/Tooth15.svg</file>
+        <file alias="Teeths/Tooth16">Icons/Teeths/Tooth16.svg</file>
+        <file alias="Teeths/Tooth17">Icons/Teeths/Tooth17.svg</file>
+        <file alias="Teeths/Tooth18">Icons/Teeths/Tooth18.svg</file>
+        <file alias="Teeths/Tooth21">Icons/Teeths/Tooth21.svg</file>
+        <file alias="Teeths/Tooth22">Icons/Teeths/Tooth22.svg</file>
+        <file alias="Teeths/Tooth23">Icons/Teeths/Tooth23.svg</file>
+        <file alias="Teeths/Tooth24">Icons/Teeths/Tooth24.svg</file>
+        <file alias="Teeths/Tooth25">Icons/Teeths/Tooth25.svg</file>
+        <file alias="Teeths/Tooth26">Icons/Teeths/Tooth26.svg</file>
+        <file alias="Teeths/Tooth27">Icons/Teeths/Tooth27.svg</file>
+        <file alias="Teeths/Tooth28">Icons/Teeths/Tooth28.svg</file>
+        <file alias="Teeths/Tooth31">Icons/Teeths/Tooth31.svg</file>
+        <file alias="Teeths/Tooth32">Icons/Teeths/Tooth32.svg</file>
+        <file alias="Teeths/Tooth33">Icons/Teeths/Tooth33.svg</file>
+        <file alias="Teeths/Tooth34">Icons/Teeths/Tooth34.svg</file>
+        <file alias="Teeths/Tooth35">Icons/Teeths/Tooth35.svg</file>
+        <file alias="Teeths/Tooth36">Icons/Teeths/Tooth36.svg</file>
+        <file alias="Teeths/Tooth37">Icons/Teeths/Tooth37.svg</file>
+        <file alias="Teeths/Tooth38">Icons/Teeths/Tooth38.svg</file>
+        <file alias="Teeths/Tooth41">Icons/Teeths/Tooth41.svg</file>
+        <file alias="Teeths/Tooth42">Icons/Teeths/Tooth42.svg</file>
+        <file alias="Teeths/Tooth43">Icons/Teeths/Tooth43.svg</file>
+        <file alias="Teeths/Tooth44">Icons/Teeths/Tooth44.svg</file>
+        <file alias="Teeths/Tooth45">Icons/Teeths/Tooth45.svg</file>
+        <file alias="Teeths/Tooth46">Icons/Teeths/Tooth46.svg</file>
+        <file alias="Teeths/Tooth47">Icons/Teeths/Tooth47.svg</file>
+        <file alias="Teeths/Tooth48">Icons/Teeths/Tooth48.svg</file>
+        <file alias="icon_filledArrow_right">Icons/icon_filledArrow_right.svg</file>
+    </qresource>
+    <qresource prefix="/icons/teeth"/>
+</RCC>

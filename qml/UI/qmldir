@@ -1,0 +1,62 @@
+module UI
+
+RightPanelShortcuts 1.0						RightPanelShortcuts.qml
+
+#--------------------------- Common Part ----------------------------
+
+CustomCheckBox   		1.0            Common/CustomCheckBox.qml
+CustomComboBox   		1.0            Common/CustomComboBox.qml
+CustomSlider     		1.0            Common/CustomSlider.qml
+CustomSwitch     		1.0            Common/CustomSwitch.qml
+CustomToolTip    		1.0            Common/CustomToolTip.qml
+CustomTabBar    		1.0            Common/CustomTabBar.qml
+CameraModeMenuItem              1.0            Common/CameraModeMenuItem.qml
+CameraModeMenu                  1.0            Common/CameraModeMenu.qml
+ProgressCircle                  1.0            Common/ProgressCircle.qml
+CustomDialog                    1.0            Common/CustomDialog.qml
+CustomLabel                     1.0            Common/CustomLabel.qml
+
+
+CustomButton                    1.0            Common/Buttons/CustomButton.qml
+CustomTabBarButton              1.0            Common/Buttons/CustomTabBarButton.qml
+ViewButton                      1.0            Common/Buttons/ViewButton.qml
+
+
+ColoredImage                    1.0            Common/Image/ColoredImage.qml
+SvgImage                        1.0            Common/Image/SvgImage.qml
+
+
+CustomSpinBox                   1.0            Common/SpinBox/CustomSpinBox.qml
+SpinBoxIndicator                1.0            Common/SpinBox/SpinBoxIndicator.qml
+
+
+#--------------------------- Components Part ----------------------------
+
+ButtonsGroup                    1.0            Components/ButtonsGroup.qml
+CheckBoxWithSlider              1.0            Components/CheckBoxWithSlider.qml
+LeftPanel                       1.0            Components/LeftPanel.qml
+PlaneCutTab                     1.0            Components/PlaneCutTab.qml
+SegmentationTab                 1.0            Components/SegmentationTab.qml
+RightPanel                      1.0            Components/RightPanel.qml
+SplineCutTab                    1.0            Components/SplineCutTab.qml
+TitleBar                        1.0            Components/TitleBar.qml
+ViewButtonsGroup                1.0            Components/ViewButtonsGroup.qml
+LabelWithComboBox               1.0            Components/LabelWithComboBox.qml
+StepNavigationButton            1.0            Components/StepNavigationButton.qml
+CustomMenuItemDelegate          1.0            Components/CustomMenuItemDelegate.qml
+SegmentationSettings            1.0            Components/SegmentationSettings.qml
+TeethSegmentation               1.0            Components/TeethSegmentation.qml
+TeethButton                     1.0            Components/TeethButton.qml
+TeethMandibular                 1.0            Components/TeethMandibular.qml
+TabContainer                    1.0            Components/TabContainer.qml
+TeethComponent                  1.0            Components/TeethComponent.qml
+TeethNumberButton               1.0            Components/TeethNumberButton.qml
+TeethMenu                       1.0            Components/TeethMenu.qml
+
+                                   
+#--------------------------- Pages Part ---------------------------------
+
+LoadPage        1.0            Pages/LoadPage.qml
+MainPage        1.0            Pages/MainPage.qml
+	   
+								   
